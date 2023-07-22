@@ -9,5 +9,4 @@ forma de uso
 
 "_iJVVLMapper.mapper_JVVL<Cliente>(empleado, cliente, true, false);" mapea todos los campos, esten vacios o no
 
-video demostrativo
 
